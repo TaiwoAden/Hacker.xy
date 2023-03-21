@@ -37,7 +37,7 @@ nav img:hover {
     display: flex;
 }
 .nav-container {
-    width: 100%;
+    max-width: 100%;
     display: flex;
     background-color: rgb(9, 17, 8);
     justify-content: center;
